@@ -1,0 +1,1 @@
+Wave-Watch is a real-time alert bot that monitors Drips Wave programs and instantly notifies developers on Discord and Telegram when new high-point issues enter the Scoping phase — eliminating the manual checking lag and ensuring no earning opportunity is missed.
